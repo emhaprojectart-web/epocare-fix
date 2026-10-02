@@ -1,0 +1,8 @@
+{
+  "name": "EPOCARE 3.0",
+  "description": "Sistem alokasi pemberian Eritropoietin dan transfusi darah pasien hemodialisa berbasis target klinis Hb awal bulan dengan sinkronisasi Google Sheets 2 arah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
